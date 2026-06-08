@@ -37,8 +37,13 @@ Operations Performed:
 - Performing JOIN queries
 - Generating employee salary reports
 
+Data Visualization:
+
+- Created salary distribution visualizations using Tableau Public
+- Visualized department-wise employee count using bar charts
+- Used charts to support SQL-based analysis and reporting
 
 Screenshots:    
 
-Project screeenshots and SQL queries are included in this repository
+Project screeenshots and SQL queries, and Tableau visualizations are included in this repository
 
